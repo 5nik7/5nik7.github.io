@@ -8,10 +8,10 @@
  * 3. Style
  */
 
- @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
 html {
   /* 1 */
-  font-family: 'IBM Plex Mono', monospace;
+  font-family: 'JetBrains Mono', monospace;
   font-size: 16px;
   font-weight: normal;
   line-height: 1.5;
@@ -7932,7 +7932,7 @@ iframe[data-uk-cover] {
 .uk-object-scale-down {
   object-fit: scale-down;
 }
-/* 
+/*
  * Position
  */
 .uk-object-top-left {
