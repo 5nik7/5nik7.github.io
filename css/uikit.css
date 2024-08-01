@@ -19,7 +19,7 @@ html {
   /* 2 */
   -webkit-text-size-adjust: 100%;
   /* 3 */
-  background: #171717;
+  background: #111111;
   color: #666;
 }
 /*
@@ -332,7 +332,7 @@ hr,
   /* 3 */
   margin: 0 0 20px 0;
   border: 0;
-  border-top: 1px solid #303030;
+  border-top: 1px solid #202020;
 }
 /* Add margin if adjacent element */
 * + hr,
@@ -1988,14 +1988,14 @@ select.uk-form-width-xsmall {
  * Secondary
  */
 .uk-button-secondary {
-  background-color: #222;
+  background-color: #161616;
   color: #ededed;
   border: 1px solid transparent;
   border-radius: 5px;
 }
 /* Hover */
 .uk-button-secondary:hover {
-  background-color: #333;
+  background-color: #222;
   color: #fff;
 }
 /* OnClick + Active */
@@ -5059,7 +5059,7 @@ ul.uk-nav-sub {
 /* Container
  ========================================================================== */
 .uk-navbar-container:not(.uk-navbar-transparent) {
-  background: #171717;
+  background: #111111;
 }
 /* Groups
  ========================================================================== */
